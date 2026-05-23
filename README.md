@@ -1,4 +1,5 @@
 DETECÇÃO DE PNEUMONIA EM IMAGENS DE RAIO X ATRAVÉS DE REDES NEURAIS: ALEXNET E INCEPTIONV3
+
 Em 2009, nos EUA, 32% dos erros médicos foram atribuídos à redução do tempo de consulta, resultando em diagnósticos incorretos e falhas no atendimento (Lobo,2018). Mesmo com a implementação de prontuários eletrônicos, 78,9% dos erros ainda envolviam problemas na relação médico-paciente e exames inadequados.
 Esse cenário revela uma realidade preocupante a precisão e a agilidade no diagnóstico médico são questões críticas para salvar vidas.
 A pneumonia, uma das principais causas de morte no mundo, exemplifica a urgência de um diagnóstico rápido e preciso. De acordo com a Organização Mundial da Saúde (OMS), a pneumonia é responsável por mais de 2,5 milhões de mortes por ano, sendo a principal causa de morte por doença infecciosa globalmente. No Brasil, a pneumonia responde por cerca de 10% das mortes anuais, e a carga hospitalar gerada pela doença sobrecarrega o sistema de saúde, com milhões de internações a cada ano. A falta de diagnóstico precoce e preciso pode agravar a condição, aumentando as chances de complicações e óbitos.
